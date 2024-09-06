@@ -107,8 +107,8 @@ int main()
 
 ## Code:10C
 ```
-// NAME - SHLOKA PATEL 
-// PRN - 23070123120 
+// NAME - Kawaljeet singh
+// PRN - 23070123124
 // EXPERIMENT - 12(C) 
 
 #include<iostream>
