@@ -29,7 +29,7 @@ It is automatically called when an object goes out of scope.
 Destructor release memory space occupied by the objects created by the constructor. Objectsaredestroyedc in the reverse of an object creation.
 ## Code: 12A
 ```
-// NAME - Kanwaljet singh
+// NAME - Kanwaljeet singh
 // PRN- 23070123124
 // EXPERIMENT - 12(A) 
 
