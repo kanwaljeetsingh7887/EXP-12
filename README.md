@@ -71,7 +71,7 @@ int main()
 
 
 
-## Code: 10B
+## Code: 12B
 ```
 // NAME - Kanwaljeet singh
 // PRN - 23070123124
@@ -105,7 +105,7 @@ int main()
 
 
 
-## Code:10C
+## Code:12C
 ```
 // NAME - Kawaljeet singh
 // PRN - 23070123124
